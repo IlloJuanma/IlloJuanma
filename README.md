@@ -1,25 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juanma</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |   CODING  |
-_________|/    ,'     |      /   IN PROG  |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |==========='
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illojuanma&label=Profile%20views&color=0e75b6&style=flat" alt="illojuanma" /> </p>
 
